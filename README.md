@@ -28,7 +28,7 @@ Proyek ini adalah sebuah API sederhana yang dibangun menggunakan Laravel dan dib
 1. **Clone Repositori**
 
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/gifadev/product-service
    cd nama-repo
 2. **Install**
     ```bash
